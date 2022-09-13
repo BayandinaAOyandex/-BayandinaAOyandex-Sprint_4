@@ -29,7 +29,7 @@ public class orderScooter {
 
     }
 
-    //тест заказа с кнопки Заказать на гл странице
+    //тест заказа с кнопки Заказать на главной странице
     @Test
 
     public void orderPage(){
